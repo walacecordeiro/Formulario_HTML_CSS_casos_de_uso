@@ -1,7 +1,7 @@
 <h1 align="center"> Desafio-2 </h1>
 
 <p align="center">
-Desafio 2 feito pela Rocketseat.
+Desafio 2 da Rocketseat.
 </p>
 
 <p align="center">
