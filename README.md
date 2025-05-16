@@ -1,4 +1,4 @@
-<h1 align="center"> Desafio-2 </h1>
+<h1 align="center"> Formulário HTML e CSS de casos de uso </h1>
 
 <p align="center">
 Desafio 2 da Rocketseat.
@@ -18,7 +18,7 @@ Desafio 2 da Rocketseat.
 <br>
 
 <p align="center">
-  <img alt="layout do projeto" src="preview.png" width="100%">
+  <img alt="layout do projeto" src=".github/preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
